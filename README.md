@@ -1,3 +1,12 @@
+# Merhaba Tablolar!
+
+Basit HTML tablo oluşturma pratik projesi.
+
+## 📋 Proje İçeriği
+
+Bu proje, HTML tablolarıyla metin rengi ekleme gösterir.
+
+```html
 <!DOCTYPE html>
 <html lang="tr">
 
@@ -29,3 +38,15 @@
 <font color=#bb8de0 size="4">tablo pratik için web sayfası<a href="http://www.htmldersleri.org/index.php"> PRATİK</a></font><BR>
 </body>
 </html>
+```
+
+## 🎨 Metin Renkleri
+
+- **Başlık**: `#c71585` (Violet Red)
+- **Sütun Başları**: `#ff1493` (Deep Pink)
+- **Hücreler**: `#ffbbff` (Light Pink)
+- **Footer**: `#bb8de0` (Medium Orchid)
+
+## 📚 Kaynaklar
+
+[HTML Dersleri - PRATİK](http://www.htmldersleri.org/index.php)
